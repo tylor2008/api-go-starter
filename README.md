@@ -1,2 +1,2 @@
 # api-go-starter
-REST API in GO with PostgresSQL, built to practice team Git worlflow
+REST API in Go with PostgreSQL, built to practice team Git workflow
